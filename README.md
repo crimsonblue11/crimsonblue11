@@ -1,4 +1,6 @@
 # Welcome to my github!
 
 
-This is just a place I put my public projects and whatnot
+Please view my portfolio ([here](https://github.com/crimsonblue11/portfolio_document)) if you're viewing my account for a job application!
+
+If not, thanks for stopping by :)
